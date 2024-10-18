@@ -1,6 +1,6 @@
 # Sentiment Analysis Script 
 
-## Overview 🌸
+## Overview
 
 This script is a way to feel the emotions hidden in your data. Using the magic of **TextBlob**, it transforms simple into an overview about the overall sentiment. It uncovers:
 It calculates:

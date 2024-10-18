@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script is a way to feel the emotions hidden in your data. Using the magic of **TextBlob**, it transforms simple into an overview about the overall sentiment. It uncovers:
+This script is a way to quickly uncover the emotions hidden in your data. Using the magic of **TextBlob**, it transforms simple into an overview about the overall sentiment. It uncovers:
 It calculates:
 - **Polarity**: A measure of sentiment ranging from -1 (negative) to 1 (positive).
 - **Subjectivity**: A measure of how opinion-based the text is, ranging from 0 (objective) to 1 (subjective).
